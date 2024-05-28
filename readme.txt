@@ -5,7 +5,7 @@ Donate link: https://globalbizsol.com/donation
 Tags: Business Portfolio, Project Portfolio, Jobs Portfolio, Simple Portfolio, Filterable Portfolio, Categorized Portfolio,portfolio, portfolio categorized filter, isotope portfolio,project showcase, responsive portfolio, sortable portfolio, wordpress portfolio, wordpress portfolio plugin.
 Requires at least: 5.0
 Tested up to: 5.7
-Stable tag: 1.4
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -59,24 +59,6 @@ If you liked our free plugins and want to help us maintain them and to create ne
 1. Upload the plugin files to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins by Searching for "GBS Portfolio" after clicking "Add New".
 2. Go to the GBS Portfolio plugin and make the appropriate settings you need.
 
-== Screenshots ==
-1. Showcase of the settings available in the plugin.
-2. Displays how does it look on the website with filterable option in the top of the section.
-
 == Changelog ==
-= 1.4 =
-* Fixed design issues.
-* Compatibility check for Wordpress 5.7.
-
-= 1.3 =
-* Added lightbox effect
-* Fixed code issues
-
-= 1.2 =
-Some fixes and design changes
-
-= 1.1 =
-* Updated version with new design.
-
 = 1.0 =
 * Initial release.
